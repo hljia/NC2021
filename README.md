@@ -1,4 +1,5 @@
-# RF data for NC2021 paper (https://www.nature.com/articles/s41467-021-23888-1)
+# RF data for NC2021 paper 
+[Jia et al.(2021)](https://www.nature.com/articles/s41467-021-23888-1)
 
 original path: NC2021 -> /yfq_nas7/mxy/jiahl/ at asrc server
 
